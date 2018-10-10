@@ -1,6 +1,8 @@
 # codefundo
 
-OPERATION RAHAT
+ICPO (INDIAN CYCLONE PREDICTING ORGANIZATION)
+
+proposed name: icpo.com
 
 THE IDEA:
 We are planning to build a website which is going to predict and prevent the economic losses due to any natural disaster.
